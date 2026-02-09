@@ -1,0 +1,58 @@
+# Age Calculator
+
+## 📌 Project Description
+Age Calculator is a simple web application that calculates a person’s age based on their date of birth.  
+It shows the age in **years, months, and days** using JavaScript date logic.
+
+This project helped me understand how to work with dates, user input, and basic JavaScript logic.
+
+---
+
+## 🚀 Live Project
+👉 Live Demo:  
+https://vaibhavjangam001-sys.github.io/Age-Calculator/
+
+---
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- GitHub Pages (for deployment)
+
+---
+
+## ⚙️ Features
+- User can enter date of birth
+- Calculates age in years, months, and days
+- Simple and clean user interface
+- Instant result display
+
+---
+
+## 📂 Project Files
+- `index.html` – structure of the project  
+- `Style.css` – styling and layout  
+- `Script.js` – age calculation logic  
+
+---
+
+## 🧠 What I Learned
+- JavaScript Date object
+- Age calculation logic
+- Git commands (add, commit, push)
+- Hosting a project using GitHub Pages
+- Managing project files using GitHub
+
+---
+
+## 👤 Author
+**Vaibhav Jangam**
+
+- GitHub: https://github.com/vaibhavjangam001-sys
+
+---
+
+## 📌 Note
+This project is created for learning and practice purposes.
